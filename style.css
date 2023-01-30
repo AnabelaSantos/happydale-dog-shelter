@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Montserrat:100i,300,400,500,800&display=swap");
+backgroung@import url("https://fonts.googleapis.com/css?family=Montserrat:100i,300,400,500,800&display=swap");
 
 * {
   font-family: "Montserrat";
@@ -21,9 +21,6 @@ header {
 main {
   display: flex;
 
-  /* flex-direction: column;
-  justify-content: flex-start;
-  flex-wrap: wrap; */
 }
 
 main nav {
@@ -45,7 +42,7 @@ main a {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  justify-content: ;
+ 
   align-items: flex-start;
 }
 
